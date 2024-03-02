@@ -13,6 +13,7 @@ Integration of Neural Ordinary Differential Equations (NODE) with Phase Space Re
 This innovative combination leverages the mathematical modeling capabilities of NODEs and the dimensional transformation of PSR to create a powerful forecasting model.
 
 **Phase Space Reconstruction for Feature Engineering:** The technique of PSR is applied to reconstruct the phase space of the input features, enhancing the model's ability to capture the underlying dynamics of the stock prices.
+
 **Custom ODEFunc Neural Network:** A custom neural network architecture (ODEFunc) defined for the differential function in the NODE framework, showcasing the flexibility in designing complex models.
 
 **Use of Time Series Split for Model Validation:** The application of TimeSeriesSplit for model validation respects the temporal order of the data, which is crucial for time series forecasting.
@@ -25,7 +26,9 @@ This innovative combination leverages the mathematical modeling capabilities of 
 ## Technologies Used
 
 **Pandas:** Used for data manipulation and analysis, particularly for loading the stock price data from a CSV file and preprocessing it for the model.
+
 **NumPy:** Utilized for numerical computing, especially in the phase space reconstruction function to manipulate arrays and perform calculations efficiently.
+
 **Scikit-learn (sklearn):** This library is employed for its preprocessing capabilities (e.g., MinMaxScaler for feature scaling) and for splitting the dataset into training and validation sets (TimeSeriesSplit), as well as for evaluating the model's performance using metrics like mean absolute error (MAE) and root mean squared error (RMSE).
 
 **PyTorch:** A deep learning framework that is used to define the neural network models, including the custom ODE function (ODEFunc) and the NeuralODE model itself. It provides the infrastructure for model training, including automatic differentiation to compute gradients and optimizers (e.g., Adam) for updating model parameters.
