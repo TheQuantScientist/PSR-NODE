@@ -37,4 +37,7 @@ This innovative combination leverages the mathematical modeling capabilities of 
 
 **Copy:** A standard Python library used here for deep copying model states, enabling the implementation of early stopping by keeping track of the best model weights during training.
 
+## Getting Started
+
+Follow the instructions in the subsequent sections to set up your environment, train the model with your dataset, and evaluate its performance on stock price forecasting tasks through evaluation metrics of MAE and RMSE. This model has been tested on various datasets of prominent technology, financial, and pharmaceutical companies, demonstrating its capability to accurately capture market trends, fluctuation groups, instant downtrends, surpassing RNNs-based models.
 
