@@ -1,6 +1,6 @@
 # Publication 
 
-This project has been accepted at the Pacific Asia Conference on Information Systems (PACIS 2024), published on the e-Library of the Association for Information Systems (AIS). PACIS is ranked: CORE A and QUALIS A2. 
+This project has been accepted for presentation and publication at the Pacific Asia Conference on Information Systems (PACIS 2024), published on the e-Library of the Association for Information Systems (AIS). PACIS is ranked: CORE A and QUALIS A2. 
 
 # Introduction 
 
