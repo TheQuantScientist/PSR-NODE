@@ -1,3 +1,7 @@
+# Publication 
+
+This project has been accepted at the Pacific Asia Conference on Information Systems (PACIS 2024), published on the e-Library of the Association for Information Systems (AIS). PACIS is ranked: CORE A and QUALIS A2. 
+
 # Introduction 
 
 This project introduces an innovative method that combines Neural Ordinary Differential Equations (NODE) with Phase Space Reconstruction (PSR) to redefine accuracy and reliability in financial market predictions. By bridging the gap between the mathematical elegance of differential equations and the dynamic learning prowess of neural networks, our approach transcends the limitations of conventional forecasting techniques.
