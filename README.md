@@ -2,7 +2,7 @@
 
 This project has been accepted for presentation and publication at the Pacific Asia Conference on Information Systems (PACIS 2024), published on the e-Library of the Association for Information Systems (AIS) as "[Phase Space Reconstructed Neural Ordinary Differential Equations Model for Stock Price Forecasting](https://aisel.aisnet.org/pacis2024/track01_aibussoc/track01_aibussoc/4/)". PACIS is ranked: CORE A and QUALIS A2. 
 
-# Introduction 
+## Introduction 
 
 This project introduces an innovative method that combines Neural Ordinary Differential Equations (NODE) with Phase Space Reconstruction (PSR) to redefine accuracy and reliability in financial market predictions. By bridging the gap between the mathematical elegance of differential equations and the dynamic learning prowess of neural networks, our approach transcends the limitations of conventional forecasting techniques.
 
