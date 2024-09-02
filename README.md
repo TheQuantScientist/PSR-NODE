@@ -1,11 +1,10 @@
 # Publication 
 
-This project has been accepted for presentation and publication at the Pacific Asia Conference on Information Systems (PACIS 2024), published on the e-Library of the Association for Information Systems (AIS).
+This project has been accepted for presentation and publication at the Pacific Asia Conference on Information Systems (PACIS 2024), published on the e-Library of the Association for Information Systems (AIS). PACIS is ranked: **CORE A** and **QUALIS A2**. 
 
 **Link to paper:**
 > [Phase Space Reconstructed Neural Ordinary Differential Equations Model for Stock Price Forecasting](https://aisel.aisnet.org/pacis2024/track01_aibussoc/track01_aibussoc/4/)".
 
-PACIS is ranked: CORE A and QUALIS A2. 
 
 ## Introduction 
 
