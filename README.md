@@ -5,6 +5,7 @@ This project has been accepted for presentation and publication at the Pacific A
 **Link to paper:**
 > [Phase Space Reconstructed Neural Ordinary Differential Equations Model for Stock Price Forecasting](https://aisel.aisnet.org/pacis2024/track01_aibussoc/track01_aibussoc/4/).
 
+![Your Banner](graphs/Model.png)
 
 ## Introduction 
 
